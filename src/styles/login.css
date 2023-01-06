@@ -1,0 +1,17 @@
+.Login {
+	min-height: 2400px;
+	padding: 40px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+	font-size: 16px;
+	
+}
+input, button {
+	padding: 5px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+	font-size: 16px !important;
+
+}
+button {
+	width: 120px;
+
+}
