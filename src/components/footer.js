@@ -10,7 +10,9 @@ const Footer = class extends React.Component {
 		return (
 			<footer>
 				<h5>
-					Michał Miętkiewski 2023 &copy; Wszelkie prawa zastrzeżone
+					Michał Miętkiewski<br />
+					Jakub Rackiewicz<br />
+					2023 &copy; Wszelkie prawa zastrzeżone
 
 				</h5>
 
