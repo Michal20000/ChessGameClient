@@ -4,7 +4,7 @@ import io from 'socket.io-client';
 import Application from './components/application.js';
 import './index.css';
 
-global.socket = io.connect('ws://chessgame-prod-mmm-4nug91.mo2.mogenius.io');
+global.socket = io.connect('wss://chessgame-prod-mmm-4nug91.mo2.mogenius.io');
 global.hash = undefined;
 global.from = undefined;
 global.to = undefined;
